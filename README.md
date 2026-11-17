@@ -1,125 +1,76 @@
 <div align="center">
-
-# Ammar Yasser
-
-**Engineering Student · Fayoum University, Egypt**
-
-*Interested in Embedded Systems, Robotics & Applied AI*
+  <img src="assets/profile-header.svg" alt="Ammar Yasser — Engineering, Software, Systems" width="100%" />
+  <br/>
+  <a href="https://www.linkedin.com/in/ammar-yasser-ece">LinkedIn</a>
+  &nbsp; · &nbsp;
+  <a href="mailto:aym1352006@gmail.com">Email</a>
+  &nbsp; · &nbsp;
+  <a href="https://github.com/Ammar-Y206">GitHub</a>
+</div>
 
 <br/>
 
-<a href="https://www.linkedin.com/in/ammar-yasser-ece">LinkedIn</a>
-&nbsp; · &nbsp;
-<a href="mailto:aym1352006@gmail.com">Email</a>
-&nbsp; · &nbsp;
-<a href="https://github.com/Ammar-Y206">GitHub</a>
+## A little about me
 
-<br/><br/>
+I'm an engineering student at **Fayoum University, Egypt**. I'm interested in the intersection of **hardware and software** — especially embedded systems, robotics, and applied machine learning.
 
-<img src="https://img.shields.io/badge/Focus-Embedded%20%26%20Robotics-34495e?style=flat-square" />
-<img src="https://img.shields.io/badge/Also- AI%20%26%20ML-536878?style=flat-square" />
-<img src="https://img.shields.io/badge/Currently-Learning-718096?style=flat-square" />
+I like building things, exploring how systems work, and learning through hands-on projects.
 
-</div>
+## What I'm interested in
 
----
+- **Embedded systems** — C/C++, microcontrollers, and hardware–software interaction
+- **Robotics** — ROS 2, sensing, and autonomous systems
+- **AI & machine learning** — predictive models and anomaly detection
 
-### About
-
-I'm an engineering student who enjoys understanding how things work and turning ideas into practical projects. My interests currently sit at the intersection of **software, intelligent systems, and hardware**.
-
-I learn by building, testing, and improving — and I try to document the process along the way.
-
-### Areas of interest
-
-| Area | What I'm exploring |
-|:--|:--|
-| **Embedded Systems** | C/C++, microcontrollers, hardware–software interaction |
-| **Robotics** | ROS 2, sensor systems, navigation |
-| **AI & Machine Learning** | Predictive modeling, anomaly detection, applied ML |
-| **Software** | Python, MATLAB, data analysis |
-
----
-
-### Selected work
-
-A few projects and experiments I've worked on:
+## Selected projects
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-**[ROS 2 Mastery](https://github.com/Ammar-Y206/ros2-mastery)**
-
-An interactive learning platform for exploring ROS 2 concepts, system architecture, and robotics workflows.
-
-<sub>ROS 2 · Robotics · TypeScript</sub>
-
-</td>
-<td width="50%" valign="top">
-
-**[Solar Plant Prediction & Fault Detection](https://github.com/Ammar-Y206/Solar-Plant-Power-Prediction-Fault-Detection)**
-
-A machine learning project exploring solar power forecasting and anomaly detection in photovoltaic data.
-
-<sub>Python · LightGBM · Machine Learning</sub>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[Multi-Sensor Fusion Simulator](https://github.com/Ammar-Y206/Multi-Sensor-Fusion-Simulator)**
-
-A MATLAB App Designer simulation for sensor filtering, fusion, and reactive obstacle avoidance.
-
-<sub>MATLAB · Sensor Fusion · Robotics</sub>
-
-</td>
-<td width="50%" valign="top">
-
-**[Hotel Booking Cancellation Prediction](https://github.com/abdo7820/Hotel-Booking-Cancellation-Prediction-System)**
-
-A machine learning system for predicting booking cancellations, with model comparison and a deployment-oriented workflow.
-
-<sub>Python · XGBoost · FastAPI · Docker</sub>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[Data Science Job Salaries — EDA](https://github.com/Ammar-Y206/ds-salaries-eda)**
-
-Exploratory analysis of data science salaries, looking at experience, company size, location, and other factors.
-
-<sub>Python · Pandas · Power BI</sub>
-
-</td>
-<td width="50%" valign="top">
-
-**[Interactive Linear Algebra](https://github.com/Ammar-Y206/interactive-linear-algebra)**
-
-An interactive project exploring linear algebra concepts through visual explanations and experimentation.
-
-<sub>Learning project · Mathematics</sub>
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/Ammar-Y206/ros2-mastery">ROS 2 Mastery</a></strong><br/>
+      An interactive learning platform that makes ROS 2 concepts easier to explore visually.<br/>
+      <sub>ROS 2 · Robotics · TypeScript</sub>
+    </td>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/Ammar-Y206/Solar-Plant-Power-Prediction-Fault-Detection">Solar Plant Prediction & Fault Detection</a></strong><br/>
+      Forecasting solar power and identifying unusual behavior in photovoltaic data.<br/>
+      <sub>Python · LightGBM · Machine Learning</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/Ammar-Y206/Multi-Sensor-Fusion-Simulator">Multi-Sensor Fusion Simulator</a></strong><br/>
+      A MATLAB simulation for sensor filtering, fusion, and reactive obstacle avoidance.<br/>
+      <sub>MATLAB · Sensor Fusion · Robotics</sub>
+    </td>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/abdo7820/Hotel-Booking-Cancellation-Prediction-System">Hotel Booking Cancellation Prediction</a></strong><br/>
+      A machine learning workflow for predicting booking cancellations and comparing models.<br/>
+      <sub>Python · XGBoost · FastAPI · Docker</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/Ammar-Y206/ds-salaries-eda">Data Science Salaries — EDA</a></strong><br/>
+      Exploring salary patterns across experience levels, company sizes, and locations.<br/>
+      <sub>Python · Pandas · Power BI</sub>
+    </td>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/Ammar-Y206/interactive-linear-algebra">Interactive Linear Algebra</a></strong><br/>
+      A visual, hands-on way to explore core linear algebra concepts.<br/>
+      <sub>Mathematics · Interactive Learning</sub>
+    </td>
+  </tr>
 </table>
 
----
+## Tools I use
 
-### Tools & technologies
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,matlab,git,github,linux,ros, pytorch" />
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,python,matlab,git,github,linux" alt="C++, Python, MATLAB, Git, GitHub, Linux" />
 </p>
 
 ---
 
 <div align="center">
-
-*Always learning. Always building.*
-
+  <sub>Learning by building — one project at a time.</sub>
 </div>
