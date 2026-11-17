@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="340" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F5F4EF"/>
+      <stop offset="1" stop-color="#E9EEE9"/>
+    </linearGradient>
+    <linearGradient id="line" x1="760" y1="45" x2="1130" y2="310" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8B9D91" stop-opacity=".18"/>
+      <stop offset="1" stop-color="#526C61" stop-opacity=".62"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="340" rx="22" fill="url(#bg)"/>
+  <path d="M0 274H1200" stroke="#D9DED7"/>
+  <path d="M0 28H1200" stroke="#FFFFFF" stroke-opacity=".8"/>
+  <g opacity=".34" stroke="#AAB6AC">
+    <path d="M770 0V340M830 0V340M890 0V340M950 0V340M1010 0V340M1070 0V340M1130 0V340"/>
+    <path d="M740 40H1200M740 100H1200M740 160H1200M740 220H1200M740 280H1200"/>
+  </g>
+  <g stroke="url(#line)" stroke-width="1.7">
+    <path d="M810 238C858 108 1005 55 1115 107C1202 148 1172 265 1070 289C966 314 858 271 875 187C891 111 1000 82 1066 126C1122 164 1090 232 1028 242"/>
+    <path d="M820 276C902 172 982 154 1086 179C1148 194 1178 244 1160 294"/>
+    <path d="M923 37C966 90 1027 104 1095 88"/>
+  </g>
+  <g fill="#657E70">
+    <circle cx="875" cy="187" r="5"/>
+    <circle cx="1066" cy="126" r="5"/>
+    <circle cx="1028" cy="242" r="5"/>
+    <circle cx="1115" cy="107" r="4"/>
+  </g>
+  <g fill="#A9B8AC">
+    <circle cx="810" cy="238" r="3"/>
+    <circle cx="1160" cy="294" r="3"/>
+    <circle cx="923" cy="37" r="3"/>
+  </g>
+  <g fill="#34483D">
+    <text x="72" y="84" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="4">ENGINEERING • SOFTWARE • SYSTEMS</text>
+    <text x="68" y="166" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="700" letter-spacing="-1.5">AMMAR YASSER</text>
+    <text x="72" y="211" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#5C6C62">Embedded Systems  /  Robotics  /  Applied AI</text>
+    <text x="72" y="294" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="2.4" fill="#7C897F">FAYOUM UNIVERSITY  ·  EGYPT</text>
+  </g>
+  <rect x="72" y="235" width="46" height="3" rx="1.5" fill="#718C79"/>
+</svg>
