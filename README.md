@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/profile-header.svg" alt="Ammar Yasser — Engineering, Software, Systems" width="100%" />
+  <img src="assets/profile-header.svg" alt="Ammar Abd-Elkawi — Engineering, Software, Systems" width="100%" />
   <br/>
   <a href="https://www.linkedin.com/in/ammar-yasser-ece">LinkedIn</a>
   &nbsp; · &nbsp;
